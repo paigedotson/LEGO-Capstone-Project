@@ -2364,8 +2364,8 @@
    "outputs": [],
    "source": [
     "#Overall Analysis:\n",
-    "#The hypothesis was not supported based on analysis. However, there is room for additional analysis. One possible\n",
-    "#avenue for analysis could be to explore color combinations that could identify a theme. For example, when 'color x' and 'color y'\n",
+    "#The hypothesis was not supported based on descriptive analysis. However, there is room for additional analysis that includes statistical analysis. 
+    "#Another avenue for analysis could be to explore color combinations that could identify a theme. For example, when 'color x' and 'color y'\n",
     "#appear together, we know we have a set in 'theme x'. Another avenue could be to explore the colors and type of bricks combinations.\n",
     "#Although the hypothesis wasn't supported, this is a good thing! Ff there are few sets whose themes can be identified by a \n",
     "#single color then that means that the colors included in most sets can be used to build sets in other themes, meaning the Lego brick "
